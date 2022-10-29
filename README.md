@@ -57,3 +57,8 @@ Exemplo de estudo do uso do Seaborn na geracao de graficos
 - processamento_raios\exemplo02_geopandas.ipynb
 
 Outros métodos para fazer a leitura de um arquivo csv e converter para geopandas com vários detalhes de cruzamentos.
+
+### uso_dados_abertos
+- uso_dados_abertos\coleta_csv_web.ipynb
+
+Exemplo de como utilizar os dados abertos do Programa Queimadas do INPE.
