@@ -1,0 +1,19 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# macOS
+.DS_Store
